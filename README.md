@@ -1,4 +1,4 @@
-# image_processing
+# image_processing_teste
 
 Description. 
 The package package_name is used to:
@@ -16,13 +16,13 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install image_processing
+pip install image_processing_teste
 ```
 
 ## Usage
 
 ```python
-from image_processing.module1_name import file1_name
+from image_processing_teste.module1_name import file1_name
 file1_name.my_function()
 ```
 
