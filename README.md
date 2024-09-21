@@ -1,11 +1,11 @@
 <<<<<<< HEAD
-# image_processing_teste
+# alan_processamento_imagem
 =======
-# image-processing-packagetest
+# alan_processamento_imagem
 >>>>>>> 08419edb5f933b6b5aa22c7605e6b178aeee2362
 
 Description. 
-The package image-processing-packagetest is used to:
+The package alan_processamento_imagem is used to:
 	Processing
 		- Histogram machining
 		- Structoral similarity
@@ -21,16 +21,16 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_p
 
 ```bash
 <<<<<<< HEAD
-pip install image_processing_teste
+pip install alan_processamento_imagem
 =======
-pip install image-processing-packagetest
+pip install alan_processamento_imagem
 >>>>>>> 08419edb5f933b6b5aa22c7605e6b178aeee2362
 ```
 
 ## Usage
 
 ```python
-from image_processing_teste.module1_name import file1_name
+from alan_processamento_imagem.module1_name import file1_name
 file1_name.my_function()
 ```
 
