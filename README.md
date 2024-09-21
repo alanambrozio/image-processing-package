@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # image_processing_teste
+=======
+# image-processing-packagetest
+>>>>>>> 08419edb5f933b6b5aa22c7605e6b178aeee2362
 
 Description. 
-The package package_name is used to:
+The package image-processing-packagetest is used to:
 	Processing
 		- Histogram machining
 		- Structoral similarity
@@ -16,7 +20,11 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
+<<<<<<< HEAD
 pip install image_processing_teste
+=======
+pip install image-processing-packagetest
+>>>>>>> 08419edb5f933b6b5aa22c7605e6b178aeee2362
 ```
 
 ## Usage
